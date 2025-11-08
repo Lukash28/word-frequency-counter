@@ -38,7 +38,7 @@ changing 1
 
 ---
 
-## 🛠️ Code
+##  Code
 
 ```python
 import string
@@ -70,10 +70,15 @@ for word, count in sorted_words[:10]:
     print(word, count)
 ```
   Skills Practiced
+
 1)File handling (open, read, strip)
+
 2)Dictionaries and word frequency counting
+
 3)String manipulation (lower(), strip(), split())
+
 4)Sorting with lambda functions
+
 5)Basic text processing and cleanup
 
 
