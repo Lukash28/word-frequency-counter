@@ -69,7 +69,8 @@ print('\nTop 10 words:')
 for word, count in sorted_words[:10]:
     print(word, count)
 ```
-  Skills Practiced
+  
+## Skills Practiced
 
 1)File handling (open, read, strip)
 
